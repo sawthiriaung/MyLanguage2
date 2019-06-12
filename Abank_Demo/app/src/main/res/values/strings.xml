@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Abank_Demo</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <!--Login-->
+    <string name="login_dummy">Login Dummy</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
