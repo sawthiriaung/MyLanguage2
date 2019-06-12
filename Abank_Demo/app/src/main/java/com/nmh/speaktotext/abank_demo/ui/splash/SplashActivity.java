@@ -1,6 +1,5 @@
 package com.nmh.speaktotext.abank_demo.ui.splash;
 
-import android.Manifest;
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.Context;
 import android.content.Intent;
@@ -8,7 +7,6 @@ import android.os.Bundle;
 import android.os.Handler;
 
 import com.nmh.speaktotext.abank_demo.BR;
-import com.nmh.speaktotext.abank_demo.ui.login.LoginActivity;
 import com.nmh.speaktotext.abank_demo.ui.main.MainActivity;
 import com.nmh.speaktotext.abank_demo.R;
 import com.nmh.speaktotext.abank_demo.base.BaseActivity;
@@ -62,12 +60,12 @@ public class SplashActivity extends BaseActivity<ActivitySplashBinding, SplashVi
         }, 5000);
     }
 
-    @Override
-    public void openLoginActivity() {
-        Intent intent = LoginActivity.newIntent(SplashActivity.this);
-        startActivity(intent);
-        finish();
-    }
+//    @Override
+//    public void openLoginActivity() {
+//        Intent intent = LoginActivity.newIntent(SplashActivity.this);
+//        startActivity(intent);
+//        finish();
+//    }
 
     @Override
     public void openMainActivity() {

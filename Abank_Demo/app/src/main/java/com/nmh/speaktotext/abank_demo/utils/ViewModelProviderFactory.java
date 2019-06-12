@@ -3,7 +3,6 @@ package com.nmh.speaktotext.abank_demo.utils;
 import android.arch.lifecycle.ViewModel;
 import android.arch.lifecycle.ViewModelProvider;
 
-import com.nmh.speaktotext.abank_demo.ui.login.LoginViewModel;
 import com.nmh.speaktotext.abank_demo.ui.splash.SplashViewModel;
 
 public class ViewModelProviderFactory extends ViewModelProvider.NewInstanceFactory {
@@ -26,9 +25,6 @@ public class ViewModelProviderFactory extends ViewModelProvider.NewInstanceFacto
         if (modelClass.isAssignableFrom(SplashViewModel.class)) {
             //noinspection unchecked
             return (T) new SplashViewModel();
-        }else if (modelClass.isAssignableFrom(LoginViewModel.class)) {
-            //noinspection unchecked
-            return (T) new LoginViewModel();
         } throw new IllegalArgumentException("Unknown ViewModel class: " + modelClass.getName());
     }
 }
