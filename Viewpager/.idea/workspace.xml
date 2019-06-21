@@ -20,9 +20,11 @@
       <change afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/drawable/ic_power_settings_new_black_24dp.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/layout/dash_book.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/values/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abank_Demo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/main/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/main/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/splash/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/splash/SplashActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/splash/SplashViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/java/com/nmh/speaktotext/abank_demo/ui/splash/SplashViewModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/drawable/button_primary_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/drawable/button_primary_bg.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/drawable/ic_fingerprint_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Abank_Demo/app/src/main/res/drawable/ic_fingerprint_black_24dp.xml" afterDir="false" />
@@ -48,8 +50,8 @@
       <change beforePath="$PROJECT_DIR$/../Fingerprint" beforeDir="false" afterPath="$PROJECT_DIR$/../Fingerprint" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GoogleMapsSample" beforeDir="false" afterPath="$PROJECT_DIR$/../GoogleMapsSample" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Here Guide" beforeDir="false" afterPath="$PROJECT_DIR$/../Here Guide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QRCODE" beforeDir="false" afterPath="$PROJECT_DIR$/../QRCODE" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Splash eg" beforeDir="false" afterPath="$PROJECT_DIR$/../Splash eg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../android-mvvm-architecture" beforeDir="false" afterPath="$PROJECT_DIR$/../android-mvvm-architecture" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../android-mvvm-dagger-2-rxjava2-example" beforeDir="false" afterPath="$PROJECT_DIR$/../android-mvvm-dagger-2-rxjava2-example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../qreg" beforeDir="false" afterPath="$PROJECT_DIR$/../qreg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../scanner" beforeDir="false" afterPath="$PROJECT_DIR$/../scanner" afterDir="false" />
@@ -81,13 +83,27 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Viewpager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Viewpager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Viewpager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Viewpager" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -232,40 +248,31 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32928678" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Android Profiler" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32935154" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32786885" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="5" visible="true" weight="0.32935154" />
+      <window_info anchor="bottom" id="Android Profiler" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nmh/speaktotext/viewpager/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="10" column="47" lean-forward="true" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nmh/speaktotext/viewpager/MainActivity.java" />
   </component>
 </project>
