@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">こんにちは</string>
+    <string name="welcome">ようこそ</string>
+    <string name="back">バック</string>
+    <string name="ok">Ok</string>
+    <string name="app_name">私の言語</string>
+</resources>

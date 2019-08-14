@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ဘာသာစကား</string>
+    <string name="hello"> မဂၤလာပါ </string>
+    <string name="welcome">ၾကိဳဆိုပါတယ္</string>
+    <string name="back">ေနာက္သို႔</string>
+    <string name="ok">အုိေခ</string>
+</resources>
